@@ -1,4 +1,4 @@
-package Inlämningsuppgift_VG
+package Tomtebossen
 
 class Tomtar {
 
